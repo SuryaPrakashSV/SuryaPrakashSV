@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🌱 Learning: AI/ML and scalable data pipelines
 - 👯I’m looking to collaborate on Generative AI and LLM projects
 - 💬 Ask me about: Data engineering, cloud, resume tips
-- 📫 You can reach out to me at ,  [LinkedIn](linkedin.com/in/venkata-surya-prakash-siriki) | [Email](mailto:prakashsiriki007@gmail.com)
+- 📫 You can reach out to me at ,  [LinkedIn](https;//linkedin.com/in/venkata-surya-prakash-siriki) | [Email](mailto:prakashsiriki007@gmail.com)
 
 ---
 
