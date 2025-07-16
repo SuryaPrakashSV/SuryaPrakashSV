@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I am Surya Siriki
 
-<!--
-**SuryaPrakashSV/SuryaPrakashSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer and Cloud Enthusiast.  
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: Data Engineering projects (Python, AWS, Snowflake, Spark)
+- 🌱 Learning: AI/ML and scalable data pipelines
+- 👯I’m looking to collaborate on Generative AI and LLM projects
+- 💬 Ask me about: Data engineering, cloud, resume tips
+- 📫 You can reach out to me at ,  [LinkedIn](https://www.linkedin.com/in/prakashsiriki007/) | [Email](mailto:prakashsiriki007@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My Technologies Stack
+
+- **Languages:** Python, SQL, Shell, JavaScript
+- **Cloud:** AWS Certified (Glue, S3, Redshift), Snowflake, Databricks.
+- **Big Data:** PySpark, Kafka
+- **Visualization:** Power BI, Tableau
+- **Other:** Docker, Git, Airflow
